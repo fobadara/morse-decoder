@@ -1,2 +1,2 @@
 # morse-decoder
-A terminal application that decode Morse code
+A terminal application that decodes Morse code
