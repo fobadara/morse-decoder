@@ -1,7 +1,3 @@
-# frozen_string_literal: true
-
-# frozen_string_literal: false
-
 # Add alphabets and morse characters to hash as key value pairs
 @morse_code = {
   '.-' => 'A', '-...' => 'B', '-.-.' => 'C', '-..' => 'D',
@@ -12,8 +8,6 @@
   '..-' => 'U', '...-' => 'V', '.--' => 'W', '-..-' => 'X',
   '-.--' => 'Y', '--..' => 'Z', ' ' => '', '   ' => ' '
 }
-
-# frozen_string_literal: true
 
 def decode_character(character)
   # Replace character with values in hash
