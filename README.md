@@ -12,7 +12,7 @@
 ### Clone this repository
 
 ```bash
-$ git clone https://github.com/BenMukebo/morse-decoder.git
+$ git clone https://github.com/fobadara/morse-decoder.git
 $ cd morse-decoder
 ```
 
