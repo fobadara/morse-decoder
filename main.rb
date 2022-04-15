@@ -30,7 +30,7 @@ puts decode_word('-- -.--')
 
 def decode_sentence(sentence)
   # Split sentence into words
-  words = sentence.split('   ')
+  words = sentence.split('')
   # Decode each word
   words.map! { |word| decode_word(word) }
   # Join words into sentence
