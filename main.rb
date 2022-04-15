@@ -1,3 +1,5 @@
+# Buggy code: The final output should be "A BOX FULL OF RUBIES"
+#   instead we are getting a lot of gibberish
 # Add alphabets and morse characters to hash as key value pairs
 @morse_code = {
   '.-' => 'A', '-...' => 'B', '-.-.' => 'C', '-..' => 'D',
